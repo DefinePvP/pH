@@ -1,3 +1,5 @@
+This is just a test of whether using 1.12.2 world generation and loading, updated with 1.13/1.14/1.15 features, and using longs instead of strings would speed up the server.  Possibly, I'll try putting pathfinding on another thread, but that's in the distant future with Half Life 3 and Hytale.
+
 Paper [![Build Status](https://papermc.io/ci/job/Paper-1.14/badge/icon)](https://papermc.io/ci/job/Paper-1.14/)
 ===========
 
